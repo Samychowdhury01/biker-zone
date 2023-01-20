@@ -1,0 +1,14 @@
+header{
+    background-color: #264653;
+}
+
+.bz-grayscale{
+    filter: grayscale(1);
+}
+
+.bz-ratings{
+    width: 22px;
+}
+footer{
+    background-color: #0B0D17;
+}
